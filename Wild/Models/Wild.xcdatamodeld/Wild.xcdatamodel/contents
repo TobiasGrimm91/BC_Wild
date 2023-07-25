@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15400" systemVersion="18G103" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Barcode" representedClassName="Barcode" syncable="YES" codeGenerationType="class">
+        <attribute name="bruttopreis" optional="YES" attributeType="String"/>
+        <attribute name="ean_code" optional="YES" attributeType="String"/>
+        <attribute name="produktname" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Bilanz" representedClassName="Bilanz" syncable="YES" codeGenerationType="class">
+        <attribute name="benutzerkassenentnahme" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="benutzerkassenstand" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="datum_uhrzeit" optional="YES" attributeType="String"/>
+        <attribute name="dbbarumsatz" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="dbbenutzerdifferenz" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="dbecumsatz" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="dbgesamtumsatz" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="dbkassenstand" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="mitarbeiter" optional="YES" attributeType="String"/>
+        <attribute name="wechselgeld" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="DatenbankCommunication" representedClassName="DatenbankCommunication" syncable="YES" codeGenerationType="class">
+        <attribute name="kommando" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Mitarbeiter" representedClassName="Mitarbeiter" syncable="YES" codeGenerationType="class">
+        <attribute name="name" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TagesVK" representedClassName="TagesVK" syncable="YES" codeGenerationType="class">
+        <attribute name="buchungsart" optional="YES" attributeType="String"/>
+        <attribute name="preis" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="vk_menge" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Barcode" positionX="-9" positionY="108" width="128" height="88"/>
+        <element name="DatenbankCommunication" positionX="-36" positionY="72" width="128" height="58"/>
+        <element name="Mitarbeiter" positionX="18" positionY="135" width="128" height="58"/>
+        <element name="TagesVK" positionX="-54" positionY="18" width="128" height="28"/>
+        <element name="Bilanz" positionX="36" positionY="144" width="128" height="193"/>
+    </elements>
+</model>

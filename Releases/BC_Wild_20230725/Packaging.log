@@ -1,0 +1,294 @@
+2023-07-25 19:44:36 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f952027b760; archive(resolved)="<IDEArchive: 0x60001e5810e0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f952027b760; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f95058c1520; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f9522cfc930; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f9505c6cb50; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f95229581c0; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f9522a80430; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f952005fba0; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f9506192300; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f95059ab4f0; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000011e9200; teamID='GGSD2RPAYA', teamName='Franz Wild und Inge Wild', teamType='Company', username='it_apple@wild-brennerei.de', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f9521e85bf0; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="(null)">
+	<IDEDistributionContext: 0x7f9525a8bd90; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="(null)">
+	<IDEDistributionContext: 0x7f9525ae8bf0; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="(null)">
+	<IDEDistributionContext: 0x7f95037a5c20; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004d672e0>", team="(null)">
+	<IDEDistributionContext: 0x7f9510a839c0; archive = "<IDEArchive: 0x60001e5810e0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f952027b760>
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionCopyItemStep
+2023-07-25 19:44:36 +0000  Running /usr/bin/ditto '-V' '/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app'
+2023-07-25 19:44:36 +0000  >>> Copying /Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app 
+2023-07-25 19:44:36 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-07-25 19:44:36 +0000  8307 bytes for ./_CodeSignature/CodeResources
+2023-07-25 19:44:36 +0000  copying file ./AppIcon-260x60@2x.png ... 
+2023-07-25 19:44:36 +0000  85425 bytes for ./AppIcon-260x60@2x.png
+copying file ./BC_Wild ... 
+2023-07-25 19:44:36 +0000  221616 bytes for ./BC_Wild
+2023-07-25 19:44:36 +0000  copying file ./AppIcon-276x76@2x~ipad.png ... 
+2023-07-25 19:44:36 +0000  134033 bytes for ./AppIcon-276x76@2x~ipad.png
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/Fuq-6G-x6K-view-cXT-pX-i8b.nib ... 
+2023-07-25 19:44:36 +0000  7038 bytes for ./Base.lproj/Main.storyboardc/Fuq-6G-x6K-view-cXT-pX-i8b.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/SIC-BL-fXR-view-liu-8I-eXC.nib ... 
+2023-07-25 19:44:36 +0000  4849 bytes for ./Base.lproj/Main.storyboardc/SIC-BL-fXR-view-liu-8I-eXC.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/mwb-b1-th4-view-2tr-4n-b9H.nib ... 
+2023-07-25 19:44:36 +0000  6349 bytes for ./Base.lproj/Main.storyboardc/mwb-b1-th4-view-2tr-4n-b9H.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/HilfePop.nib ... 
+2023-07-25 19:44:36 +0000  1017 bytes for ./Base.lproj/Main.storyboardc/HilfePop.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/Tetsmode.nib ... 
+2023-07-25 19:44:36 +0000  1151 bytes for ./Base.lproj/Main.storyboardc/Tetsmode.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/Testing.nib ... 
+2023-07-25 19:44:36 +0000  1179 bytes for ./Base.lproj/Main.storyboardc/Testing.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/S58-rd-xt1-view-JmF-3T-GyY.nib ... 
+2023-07-25 19:44:36 +0000  5337 bytes for ./Base.lproj/Main.storyboardc/S58-rd-xt1-view-JmF-3T-GyY.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/hqR-eU-fTW-view-s0h-sy-j1b.nib ... 
+2023-07-25 19:44:36 +0000  5931 bytes for ./Base.lproj/Main.storyboardc/hqR-eU-fTW-view-s0h-sy-j1b.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/HauptviewController.nib ... 
+2023-07-25 19:44:36 +0000  1698 bytes for ./Base.lproj/Main.storyboardc/HauptviewController.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/Programming.nib ... 
+2023-07-25 19:44:36 +0000  1157 bytes for ./Base.lproj/Main.storyboardc/Programming.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-cZL-VA-H35.nib ... 
+2023-07-25 19:44:36 +0000  2051 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-cZL-VA-H35.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/7gV-KF-WjJ-view-264-mn-Zs5.nib ... 
+2023-07-25 19:44:36 +0000  6704 bytes for ./Base.lproj/Main.storyboardc/7gV-KF-WjJ-view-264-mn-Zs5.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-RFw-Z6-Yff.nib ... 
+2023-07-25 19:44:36 +0000  2537 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-RFw-Z6-Yff.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-07-25 19:44:36 +0000  2666 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/Programm.nib ... 
+2023-07-25 19:44:36 +0000  1183 bytes for ./Base.lproj/Main.storyboardc/Programm.nib
+2023-07-25 19:44:36 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-07-25 19:44:36 +0000  537 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-07-25 19:44:36 +0000  copying file ./Assets.car ... 
+2023-07-25 19:44:36 +0000  12641391 bytes for ./Assets.car
+2023-07-25 19:44:36 +0000  copying file ./Frameworks/RSBarcodes_Swift.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/RSBarcodes_Swift.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift ... 
+549360 bytes for ./Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift
+copying file ./Frameworks/RSBarcodes_Swift.framework/Info.plist ... 
+805 bytes for ./Frameworks/RSBarcodes_Swift.framework/Info.plist
+copying file ./embedded.mobileprovision ... 
+2023-07-25 19:44:36 +0000  15683 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2023-07-25 19:44:36 +0000  2049 bytes for ./Info.plist
+2023-07-25 19:44:36 +0000  copying file ./PkgInfo ... 
+2023-07-25 19:44:36 +0000  8 bytes for ./PkgInfo
+2023-07-25 19:44:36 +0000  /usr/bin/ditto exited with 0
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-07-25 19:44:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x60001e5b7f60; bundleID='org.cocoapods.RSBarcodes-Swift', path='<DVTFilePath:0x60000e1d9600:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefcd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b806520; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='(null)', teamID='GGSD2RPAYA', identifier='org.cocoapods.RSBarcodes-Swift', executablePath='<DVTFilePath:0x60001a6f5c00:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift'>', hardenedRuntime='0'>'>
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionSymbolsStep
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionAppThinningStep
+2023-07-25 19:44:36 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionArchThinningStep
+2023-07-25 19:44:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift' '-verify_arch' 'arm64e'
+2023-07-25 19:44:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-07-25 19:44:36 +0000  Skipping architecture thinning for item "RSBarcodes_Swift" because arch "arm64e" wasn't found
+2023-07-25 19:44:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app/BC_Wild' '-verify_arch' 'arm64e'
+2023-07-25 19:44:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-07-25 19:44:36 +0000  Skipping architecture thinning for item "BC_Wild" because arch "arm64e" wasn't found
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionODRStep
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-07-25 19:44:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x60001e5b7f60; bundleID='org.cocoapods.RSBarcodes-Swift', path='<DVTFilePath:0x60000e1d9600:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefcd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b831c30; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='(null)', teamID='GGSD2RPAYA', identifier='org.cocoapods.RSBarcodes-Swift', executablePath='<DVTFilePath:0x60001a6f5c00:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift'>', hardenedRuntime='0'>'>
+2023-07-25 19:44:36 +0000  Running /usr/bin/xattr '-crs' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app'
+2023-07-25 19:44:36 +0000  /usr/bin/xattr exited with 0
+2023-07-25 19:44:36 +0000  Processing step: IDEDistributionCodesignStep
+2023-07-25 19:44:36 +0000  Entitlements for <IDEDistributionItem: 0x60001e5b7f60; bundleID='org.cocoapods.RSBarcodes-Swift', path='<DVTFilePath:0x60000e1d9600:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefcd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600007b44dc0; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='(null)', teamID='GGSD2RPAYA', identifier='org.cocoapods.RSBarcodes-Swift', executablePath='<DVTFilePath:0x60001a6f5c00:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift'>', hardenedRuntime='0'>'>: {
+}
+2023-07-25 19:44:36 +0000  Entitlements for <IDEDistributionItem: 0x60001e5b7f60; bundleID='org.cocoapods.RSBarcodes-Swift', path='<DVTFilePath:0x60000e1d9600:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefcd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b804bb0; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='(null)', teamID='GGSD2RPAYA', identifier='org.cocoapods.RSBarcodes-Swift', executablePath='<DVTFilePath:0x60001a6f5c00:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift'>', hardenedRuntime='0'>'> are: {
+}
+2023-07-25 19:44:36 +0000  Writing entitlements for <IDEDistributionItem: 0x60001e5b7f60; bundleID='org.cocoapods.RSBarcodes-Swift', path='<DVTFilePath:0x60000e1d9600:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefcd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b804e70; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='(null)', teamID='GGSD2RPAYA', identifier='org.cocoapods.RSBarcodes-Swift', executablePath='<DVTFilePath:0x60001a6f5c00:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift'>', hardenedRuntime='0'>'> to: /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/entitlements~~~rNTgwz
+2023-07-25 19:44:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBAA7B44AAEC34259F71A19245B389E5D765D96C' '--entitlements' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/entitlements~~~rNTgwz' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'
+2023-07-25 19:44:36 +0000  /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework: replacing existing signature
+2023-07-25 19:44:39 +0000  /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.RSBarcodes-Swift]
+2023-07-25 19:44:39 +0000  /usr/bin/codesign exited with 0
+2023-07-25 19:44:39 +0000  Entitlements for <IDEDistributionItem: 0x60001e5b4f60; bundleID='iPad.BCWild', path='<DVTFilePath:0x60001a738150:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefd810; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b832260; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='{
+    "application-identifier" = "GGSD2RPAYA.iPad.BCWild";
+    "com.apple.developer.networking.networkextension" =     (
+        "app-proxy-provider",
+        "content-filter-provider",
+        "dns-proxy",
+        "packet-tunnel-provider"
+    );
+    "com.apple.developer.networking.vpn.api" =     (
+        "allow-vpn"
+    );
+    "com.apple.developer.team-identifier" = GGSD2RPAYA;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "GGSD2RPAYA.iPad.wild"
+    );
+}', teamID='GGSD2RPAYA', identifier='iPad.BCWild', executablePath='<DVTFilePath:0x60001ea7b1e0:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/BC_Wild'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "GGSD2RPAYA.iPad.BCWild";
+    "com.apple.developer.networking.networkextension" =     (
+        "app-proxy-provider",
+        "content-filter-provider",
+        "dns-proxy",
+        "packet-tunnel-provider"
+    );
+    "com.apple.developer.networking.vpn.api" =     (
+        "allow-vpn"
+    );
+    "com.apple.developer.team-identifier" = GGSD2RPAYA;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "GGSD2RPAYA.iPad.wild"
+    );
+}
+2023-07-25 19:44:39 +0000  Entitlements for <IDEDistributionItem: 0x60001e5b4f60; bundleID='iPad.BCWild', path='<DVTFilePath:0x60001a738150:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefd810; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b831ad0; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='{
+    "application-identifier" = "GGSD2RPAYA.iPad.BCWild";
+    "com.apple.developer.networking.networkextension" =     (
+        "app-proxy-provider",
+        "content-filter-provider",
+        "dns-proxy",
+        "packet-tunnel-provider"
+    );
+    "com.apple.developer.networking.vpn.api" =     (
+        "allow-vpn"
+    );
+    "com.apple.developer.team-identifier" = GGSD2RPAYA;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "GGSD2RPAYA.iPad.wild"
+    );
+}', teamID='GGSD2RPAYA', identifier='iPad.BCWild', executablePath='<DVTFilePath:0x60001ea7b1e0:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/BC_Wild'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "GGSD2RPAYA.iPad.BCWild";
+    "com.apple.developer.networking.networkextension" =     (
+        "app-proxy-provider",
+        "content-filter-provider",
+        "dns-proxy",
+        "packet-tunnel-provider"
+    );
+    "com.apple.developer.networking.vpn.api" =     (
+        "allow-vpn"
+    );
+    "com.apple.developer.team-identifier" = GGSD2RPAYA;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "GGSD2RPAYA.iPad.wild"
+    );
+}
+2023-07-25 19:44:39 +0000  Writing entitlements for <IDEDistributionItem: 0x60001e5b4f60; bundleID='iPad.BCWild', path='<DVTFilePath:0x60001a738150:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001eefd810; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000b82f0d0; name='Apple Development: Franz Wild (F85JGKC9NR)', hash='43011DD155CEE2E604E39B71FC0C366AB134281B', serialNumber='260AE48F2E491AA84DCD55250693E360', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-20 18:36:25 +0000''>', entitlements='{
+    "application-identifier" = "GGSD2RPAYA.iPad.BCWild";
+    "com.apple.developer.networking.networkextension" =     (
+        "app-proxy-provider",
+        "content-filter-provider",
+        "dns-proxy",
+        "packet-tunnel-provider"
+    );
+    "com.apple.developer.networking.vpn.api" =     (
+        "allow-vpn"
+    );
+    "com.apple.developer.team-identifier" = GGSD2RPAYA;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "GGSD2RPAYA.iPad.wild"
+    );
+}', teamID='GGSD2RPAYA', identifier='iPad.BCWild', executablePath='<DVTFilePath:0x60001ea7b1e0:'/Users/tobiasschillinger/Library/Developer/Xcode/Archives/2023-07-25/Wild1.1 25.07.23, 21.44.xcarchive/Products/Applications/BC_Wild.app/BC_Wild'>', hardenedRuntime='0'>'> to: /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/entitlements~~~Ug9JKU
+2023-07-25 19:44:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBAA7B44AAEC34259F71A19245B389E5D765D96C' '--entitlements' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/entitlements~~~Ug9JKU' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app'
+2023-07-25 19:44:39 +0000  /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app: replacing existing signature
+2023-07-25 19:44:41 +0000  /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app: signed app bundle with Mach-O thin (arm64) [iPad.BCWild]
+2023-07-25 19:44:41 +0000  /usr/bin/codesign exited with 0
+2023-07-25 19:44:41 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-07-25 19:44:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-07-25 19:44:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-07-25 19:44:41 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-07-25 19:44:41 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root' '/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Packages/BC_Wild.ipa'
+2023-07-25 19:44:41 +0000  >>> Copying /var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root 
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/_CodeSignature/CodeResources ... 
+2023-07-25 19:44:41 +0000  8307 bytes for ./Payload/BC_Wild.app/_CodeSignature/CodeResources
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/AppIcon-260x60@2x.png ... 
+2023-07-25 19:44:41 +0000  85425 bytes for ./Payload/BC_Wild.app/AppIcon-260x60@2x.png
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/BC_Wild ... 
+2023-07-25 19:44:41 +0000  221632 bytes for ./Payload/BC_Wild.app/BC_Wild
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/AppIcon-276x76@2x~ipad.png ... 
+2023-07-25 19:44:41 +0000  134033 bytes for ./Payload/BC_Wild.app/AppIcon-276x76@2x~ipad.png
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Fuq-6G-x6K-view-cXT-pX-i8b.nib ... 
+2023-07-25 19:44:41 +0000  7038 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Fuq-6G-x6K-view-cXT-pX-i8b.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/SIC-BL-fXR-view-liu-8I-eXC.nib ... 
+2023-07-25 19:44:41 +0000  4849 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/SIC-BL-fXR-view-liu-8I-eXC.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/mwb-b1-th4-view-2tr-4n-b9H.nib ... 
+2023-07-25 19:44:41 +0000  6349 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/mwb-b1-th4-view-2tr-4n-b9H.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/HilfePop.nib ... 
+1017 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/HilfePop.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Tetsmode.nib ... 
+1151 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Tetsmode.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Testing.nib ... 
+1179 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Testing.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/S58-rd-xt1-view-JmF-3T-GyY.nib ... 
+2023-07-25 19:44:41 +0000  5337 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/S58-rd-xt1-view-JmF-3T-GyY.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/hqR-eU-fTW-view-s0h-sy-j1b.nib ... 
+2023-07-25 19:44:41 +0000  5931 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/hqR-eU-fTW-view-s0h-sy-j1b.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/HauptviewController.nib ... 
+2023-07-25 19:44:41 +0000  1698 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/HauptviewController.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Programming.nib ... 
+2023-07-25 19:44:41 +0000  1157 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Programming.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/UINavigationController-cZL-VA-H35.nib ... 
+2023-07-25 19:44:41 +0000  2051 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/UINavigationController-cZL-VA-H35.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/7gV-KF-WjJ-view-264-mn-Zs5.nib ... 
+2023-07-25 19:44:41 +0000  6704 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/7gV-KF-WjJ-view-264-mn-Zs5.nib
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/UINavigationController-RFw-Z6-Yff.nib ... 
+2023-07-25 19:44:41 +0000  2537 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/UINavigationController-RFw-Z6-Yff.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-07-25 19:44:41 +0000  2666 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Programm.nib ... 
+2023-07-25 19:44:41 +0000  1183 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Programm.nib
+copying file ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2023-07-25 19:44:41 +0000  537 bytes for ./Payload/BC_Wild.app/Base.lproj/Main.storyboardc/Info.plist
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Assets.car ... 
+2023-07-25 19:44:41 +0000  12641391 bytes for ./Payload/BC_Wild.app/Assets.car
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/_CodeSignature/CodeResources ... 
+2023-07-25 19:44:41 +0000  1798 bytes for ./Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/_CodeSignature/CodeResources
+copying file ./Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift ... 
+2023-07-25 19:44:41 +0000  549648 bytes for ./Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/RSBarcodes_Swift
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/Info.plist ... 
+805 bytes for ./Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework/Info.plist
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/embedded.mobileprovision ... 
+2023-07-25 19:44:41 +0000  17976 bytes for ./Payload/BC_Wild.app/embedded.mobileprovision
+2023-07-25 19:44:41 +0000  copying file ./Payload/BC_Wild.app/Info.plist ... 
+2023-07-25 19:44:41 +0000  2049 bytes for ./Payload/BC_Wild.app/Info.plist
+copying file ./Payload/BC_Wild.app/PkgInfo ... 
+8 bytes for ./Payload/BC_Wild.app/PkgInfo
+2023-07-25 19:44:41 +0000  /usr/bin/ditto exited with 0
+2023-07-25 19:44:41 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-07-25 19:44:41 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-07-25 19:44:41 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-07-25 19:44:41 +0000  IDEDistributionItem init <DVTFilePath:0x600012350c00:'/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app/Frameworks/RSBarcodes_Swift.framework'>
+2023-07-25 19:44:41 +0000  IDEDistributionItem init <DVTFilePath:0x60001a706ed0:'/var/folders/l2/ldxvd_nd70qbpz9l5rr22jz00000gn/T/XcodeDistPipeline.~~~gTM0WC/Root/Payload/BC_Wild.app'>
+2023-07-25 19:44:41 +0000  Processing step: IDEDistributionCreateManifestStep

@@ -1,0 +1,16 @@
+PODS:
+  - RSBarcodes_Swift (5.0.2)
+
+DEPENDENCIES:
+  - RSBarcodes_Swift (~> 5.0.2)
+
+SPEC REPOS:
+  trunk:
+    - RSBarcodes_Swift
+
+SPEC CHECKSUMS:
+  RSBarcodes_Swift: a651a689afd3e621cdcdb99419eee580f5173bf4
+
+PODFILE CHECKSUM: 3dc3b582e6270024b35030f90e99a10b7e2d15c5
+
+COCOAPODS: 1.9.3
