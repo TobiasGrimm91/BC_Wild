@@ -16,6 +16,7 @@
 		E7A6C64A254B3AFD00B7C496 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63652C421C90F91009323E1 /* Main.storyboard */; };
 		E7A6C64D254B3B5100B7C496 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63652C021C90F91009323E1 /* AppDelegate.swift */; };
 		E7A6C651254B3C0600B7C496 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A6C650254B3C0600B7C496 /* RoundButton.swift */; };
+		E7BD4EE62A72872A005ECB20 /* FactoryResetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BD4EE52A72872A005ECB20 /* FactoryResetViewController.swift */; };
 		F63652C321C90F91009323E1 /* StartupController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63652C221C90F91009323E1 /* StartupController.swift */; };
 		F63652D521C91093009323E1 /* HauptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63652D421C91093009323E1 /* HauptViewController.swift */; };
 		F671B32A23700280008C7D91 /* HilfeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F671B32923700280008C7D91 /* HilfeViewController.swift */; };
@@ -34,6 +35,7 @@
 		E754A63C2552D43100BA3096 /* Bluetooth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bluetooth.swift; sourceTree = "<group>"; };
 		E76A77B82556E2C6008D66AF /* ProgrammingPopController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammingPopController.swift; sourceTree = "<group>"; };
 		E7A6C650254B3C0600B7C496 /* RoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RoundButton.swift; path = Wild/Models_old/RoundButton.swift; sourceTree = SOURCE_ROOT; };
+		E7BD4EE52A72872A005ECB20 /* FactoryResetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactoryResetViewController.swift; sourceTree = "<group>"; };
 		F60CE7782389606700BB2FAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Wild/Assets.xcassets; sourceTree = "<group>"; };
 		F63652BD21C90F91009323E1 /* BC_Wild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BC_Wild.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F63652C021C90F91009323E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				E70C0DFF2A6F020800460335 /* TestmodePopController.swift */,
 				E70C0DFA2A6C689000460335 /* ProgrammingViewController.swift */,
 				E76A77B82556E2C6008D66AF /* ProgrammingPopController.swift */,
+				E7BD4EE52A72872A005ECB20 /* FactoryResetViewController.swift */,
 			);
 			path = MainMenue;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				F63652D521C91093009323E1 /* HauptViewController.swift in Sources */,
 				E70C0E002A6F020800460335 /* TestmodePopController.swift in Sources */,
 				E754A63D2552D43100BA3096 /* Bluetooth.swift in Sources */,
+				E7BD4EE62A72872A005ECB20 /* FactoryResetViewController.swift in Sources */,
 				F6FFEAB82316E538003173F7 /* TestmodeViewController.swift in Sources */,
 				E70C0DFB2A6C689000460335 /* ProgrammingViewController.swift in Sources */,
 				E76A77B92556E2C6008D66AF /* ProgrammingPopController.swift in Sources */,

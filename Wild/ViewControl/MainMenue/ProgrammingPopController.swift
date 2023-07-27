@@ -167,7 +167,8 @@ class ProgrammingPopController: UIViewController {
             Back.setTitle("Zurück", for: .normal)
             Continue.setTitle("Weiter", for: .normal)
             ScannerLabel.setTitle(global.ScannerChoosen, for: .normal)
-            ProgrammDescriptionLabel.setTitle(" > Scanner bitte wie gezeigt beschriften:", for: .normal)
+            let text = " > Scanner bitte mit Label: " + global.ScannerChoosen + " beschriften."
+            ProgrammDescriptionLabel.setTitle(text, for: .normal)
             PictureView.isHidden = false
             let Img: UIImage? = UIImage(named: "ScannerLabel")
             self.PictureView.image = Img

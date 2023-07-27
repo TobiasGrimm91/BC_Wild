@@ -35,8 +35,9 @@ class HauptViewController: UIViewController {
     @IBOutlet var Testmode: UIButton!
     @IBOutlet weak var Programming: UIButton!
  
+    @IBOutlet weak var FactoryReset: UIButton!
     @IBOutlet weak var barcodeView: UIImageView!
-    @IBOutlet weak var barcodeView1: UIImageView!
+    
     
     
     @IBAction func Testmode(_ sender: UIButton) {
@@ -82,7 +83,7 @@ class HauptViewController: UIViewController {
         
         super.viewDidLoad()
         genBarcode(ean: "$POWER#OFF", BCView: barcodeView)
-        genBarcode(ean: "000B0", BCView: barcodeView1)
+        
 //        let purple1 = UIColor.lightGray // 1.0 alpha
 //        let semi1 = purple1.withAlphaComponent(0.7)
 //        self.view.backgroundColor = semi1
