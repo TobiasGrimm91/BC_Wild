@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BC_Wild.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>18</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FBAA7B44AAEC34259F71A19245B389E5D765D96C</string>
+				<key>dateExpires</key>
+				<string>19.04.24</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>FBAA7B44AAEC34259F71A19245B389E5D765D96C</string>
+						<key>dateExpires</key>
+						<string>19.04.24</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>RSBarcodes_Swift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GGSD2RPAYA</string>
+						<key>name</key>
+						<string>Franz Wild und Inge Wild</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>5.0.2</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GGSD2RPAYA.iPad.BCWild</string>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array>
+					<string>app-proxy-provider</string>
+					<string>content-filter-provider</string>
+					<string>dns-proxy</string>
+					<string>packet-tunnel-provider</string>
+				</array>
+				<key>com.apple.developer.networking.vpn.api</key>
+				<array>
+					<string>allow-vpn</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GGSD2RPAYA</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>GGSD2RPAYA.iPad.wild</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>BC_Wild.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2849578d-316a-4ee2-ac3f-e3030ab9c57c</string>
+				<key>dateExpires</key>
+				<string>18.07.24</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: iPad.BCWild</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GGSD2RPAYA</string>
+				<key>name</key>
+				<string>Franz Wild und Inge Wild</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

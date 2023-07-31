@@ -425,7 +425,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Wild/KS Wild.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 15;
+				CURRENT_PROJECT_VERSION = 18;
 				DEVELOPMENT_TEAM = GGSD2RPAYA;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Wild/Info.plist;
@@ -435,7 +435,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.2;
+				MARKETING_VERSION = 0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = iPad.BCWild;
 				PRODUCT_NAME = BC_Wild;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -454,7 +454,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Wild/KS Wild.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 15;
+				CURRENT_PROJECT_VERSION = 18;
 				DEVELOPMENT_TEAM = GGSD2RPAYA;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Wild/Info.plist;
@@ -464,7 +464,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.2;
+				MARKETING_VERSION = 0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = iPad.BCWild;
 				PRODUCT_NAME = BC_Wild;
 				PROVISIONING_PROFILE_SPECIFIER = "";

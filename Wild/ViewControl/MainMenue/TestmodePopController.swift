@@ -181,7 +181,8 @@ class TestmodePopController: UIViewController {
                 ScannerLabel.setTitle(global.ScannerChoosen, for: .normal)
                 ProgrammDescriptionLabel.setTitle("Scanner ausschalten:", for: .normal)
                 Text1.isHidden = false
-                Text1.setTitle(" > Scanner ist erfolgreich eingerichtet \n und auf Funktion getestet!", for: .normal)
+                let text = " > Scanner-Funktionstest war erfolgreich! \n > Ist das Label: " + global.ScannerChoosen + " aufgeklebt?"
+                Text1.setTitle(text, for: .normal)
                 barcodeView.isHidden = false
                 genBarcode(ean: "$POWER#OFF", BCView: barcodeView)
                 
